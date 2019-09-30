@@ -1,0 +1,4 @@
+#Instalações
+	- Nodemon (npm install -g nodemon)
+	- Express (npm i express --save)
+	- Mysql (npm i -s mysql)
